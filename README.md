@@ -5,7 +5,8 @@
 - 🧐 Edge Computing and Kubernetes interest me
 - 📫 How to reach me:
   - Email -> dangondomwangi@gmail.com
-  - Socials -> @thedanmwangi
+  - LinkedIn -> https://www.linkedin.com/in/thedanmwangi/
+  - Other Socials -> @thedanmwangi
 
 <!---
 thedanmwangi/thedanmwangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
