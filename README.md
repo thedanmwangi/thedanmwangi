@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile and Web Application Development
 - 🌱 I’m currently learning Next.js bundled with TypeScript to build interactive web application frontends
 - 💞️ I’m in love with the following technologies: Next.js Framework with TypeScript, Laravel Framework, PHP, Kotlin for Android Development and Cloud Services
-- 🧐 Edge Computing and Kubernetes interest me
+- 🧐 Edge Computing, Kubernetes and AI with Python interest me
 - 📫 How to reach me:
   - Email -> dangondomwangi@gmail.com
   - LinkedIn -> https://www.linkedin.com/in/thedanmwangi/
