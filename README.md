@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan Mwangi (@thedanmwangi)
 - 👀 I’m interested in Mobile and Web Application Development
-- 🌱 I’m currently learning Next.js bundled with TypeScript to build interactive web application frontends
-- 💞️ I’m in love with the following technologies: Next.js Framework with TypeScript, Laravel Framework, PHP, Kotlin for Android Development and Cloud Services
+- 🌱 I’m currently focusing on Next.js bundled with TypeScript to build interactive web application frontends and Kotlin bundled with Jetpack Compose to build amazing Android apps
+- 💞️ I love the following technologies: Next.js with TypeScript, Laravel, Kotlin for Android Development and Cloud Services
 - 🧐 Edge Computing, Kubernetes and AI with Python interest me
 - 📫 How to reach me:
   - Email -> dangondomwangi@gmail.com
